@@ -80,7 +80,9 @@ table {
 }
   
 td,
-th {
+th,
+thead,
+tbody {
     border: 1px solid black;
     padding: 5px;
 }
